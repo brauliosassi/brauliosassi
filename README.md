@@ -11,8 +11,8 @@ Skills: GIT / HTML / CSS / JAVASCRIPT / JAVA / SQL / JSF / JSP / SPRINGBOOT / PR
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brauliosassi)](https://github.com/brauliosassi/github-readme-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brauliosassi&show_icons=true)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
  
 
 
