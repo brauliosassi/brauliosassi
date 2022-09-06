@@ -10,6 +10,8 @@ Skills: GIT / HTML / CSS / JAVASCRIPT / JAVA / SQL / JSF / JSP / SPRINGBOOT / PR
 - 🌱 I’m currently learning Java avançado 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brauliosassi&show_icons=true&theme=radical)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=brauliosassi&repo=github-readme-stats)](https://github.com/brauliosassi/github-readme-stats)
  
 
 
