@@ -2,9 +2,9 @@
 #### A procura do meu lugar no mundo 🗺
 ![A procura do meu lugar no mundo 🗺](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.marcobeltempo.com%2Ftag%2Fgithub%2F&psig=AOvVaw2UzKfJCNTwQyOVXcPDEH5d&ust=1631799538063000&source=images&cd=vfe&ved=0CAkQjRxqFwoTCPibkaGNgfMCFQAAAAAdAAAAABAF)
 
-um eterno aprendiz no mundo do desenvolvimento, gosto do java, apesar das surras diárias que ele me dá, talvez seja por isso, esse desafio diário e a possibilidade de sempre estar se atualizando e no final ver que ainda falta muito. Aberto a novas ideias, projetos e etc. Sou formado técnico em eletrônica e Análise de Sistemas.
+um eterno aprendiz no mundo do desenvolvimento, gosto do java, apesar das surras diárias que ele me dá, talvez seja por isso, esse desafio diário e a possibilidade de sempre estar se atualizando e no final ver que ainda falta muito. Aberto a novas ideias, projetos e etc. Sou formado  Análise de Sistemas e técnico em eletrônica.
 
-Skills: GIT / HTML / CSS / JAVASCRIPT / JAVA / SQL / JSF / JSP / SPRINGBOOT / PRIMEFACES / 
+Skills: GIT / HTML / CSS / JAVASCRIPT / JAVA / SQL / JSF / JSP / SPRINGBOOT / PRIMEFACES / MAVEN / GITLAB / CI/CD
 
 - 🔭 I’m currently working on Air Force Brazilian 
 - 🌱 I’m currently learning Java avançado 
