@@ -1,17 +1,39 @@
-### Hi there 👋, Olá mundo, eu sou Braulio!!🙋🏻‍♂️  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/brauliosassi)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/braulio-agra-sássi-7aba3055//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/@brawrj) 
-#### A procura do meu lugar no mundo 🗺
+## Braulio A. Sassi | Developer back-End
+<img src="https://raw.githubusercontent.com/brauliosassi/brauliosassi/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
+<p align="left"> 
+  Olá! eu sou o Braulio A. Sassi, sou do Rio de Janeiro/RJ, e atualmente trabalho como <strong>Dev. Back-End </strong>.<br>
+</p>
 
-um eterno aprendiz no mundo do desenvolvimento, gosto do java, apesar das surras diárias que ele me dá, talvez seja por isso, esse desafio diário e a possibilidade de sempre estar se atualizando e no final ver que ainda falta muito. Aberto a novas ideias, projetos e etc. Sou formado  Análise de Sistemas e técnico em eletrônica.
+<p align="left">
+     Frameworks: <strong>SPRINGBOOT +2 / Angular +8/ Java EE / PRIMEFACES</strong> <br/>
+     Skills: <strong> HTML / CSS / JAVASCRIPT / TYPESCRIPT / JAVA / SQL / JSF / JSP / MAVEN / CI/CD</strong> <br/>
+ </p>
 
-Skills: GIT / HTML / CSS / JAVASCRIPT / JAVA / SQL / JSF / JSP / SPRINGBOOT / PRIMEFACES / MAVEN / GITLAB / CI/CD
+<p align="left">
+  💼 Ferramentas: <strong>Eclipse, Intelij, VSCode, PostgresSQL, SQLDeveloper, Jira, Git, GitHub, GitLab e Aws.</strong>
+</p>
 
-- 🔭 I’m currently working on Air Force Brazilian 
-- 🌱 I’m currently learning Java avançado 
+<p align="left">
+  💌 Se quiser trocar uma ideia, aqui vai alguns meio de comunicação: ⤵️
+</p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brauliosassi&show_icons=true&theme=radical)
+<p align="left">
+  
+  <a href="https://www.linkedin.com/in/braulio-sassi/" alt="Linkedin">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a>
 
-![Top Langs](https://github-readme-stats.udemyapp/?username=brauliosassi&hide=javascript,html)]
+  <a href="" alt="Instagram">
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM"/></a>
+</p>  
+
+##
+
+<div>
+  <a href="https://github.com/brauliosassi">
+    <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brauliosassi&layout=compact&langs_count=7&theme=github_dark"/>
+  </a>
+</div>
  
 
 
