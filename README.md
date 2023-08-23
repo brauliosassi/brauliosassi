@@ -1,5 +1,5 @@
 ## Braulio A. Sassi | Developer back-End
-<img src="https://raw.githubusercontent.com/brauliosassi/brauliosassi/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<a href="https://app.daily.dev/braulioagrasassi"><img src="https://api.daily.dev/devcards/c0aae6dbd882483891348ad52b67956d.png?r=cgb" width="400" alt="Braulio Agra Sassi's Dev Card"/></a>
 
 <p align="left"> 
   Olá! eu sou o Braulio A. Sassi, sou do Rio de Janeiro/RJ, e atualmente trabalho como <strong>Dev. Back-End </strong>.<br>
